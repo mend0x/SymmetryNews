@@ -85,14 +85,15 @@ flutter run
 
 Below are several screenshots showcasing the main screens of the application:
 
-<p align="center">
-  <img src="capturaApp1.png" width="220">
-  <img src="capturaApp2.png" width="220">
-</p>
-
-<p align="center">
-  <img src="capturaApp3.png" width="220">
-  <img src="capturaApp4.png" width="220">
-</p>
+<table align="center">
+<tr>
+<td><img src="capturaApp1.png" width="250"></td>
+<td><img src="capturaApp2.png" width="250"></td>
+</tr>
+<tr>
+<td><img src="capturaApp3.png" width="250"></td>
+<td><img src="capturaApp4.png" width="250"></td>
+</tr>
+</table>
 
 
