@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81384406641",
+    "project_id": "flash-back2-1bv2up",
+    "storage_bucket": "flash-back2-1bv2up.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81384406641:android:13c2e28674f2d4673965d0",
+        "android_client_info": {
+          "package_name": "com.example.news_app_clean_architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADL52ltNilHfCRNDKlkJq9hzB0U9bqb6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

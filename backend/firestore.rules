@@ -1,0 +1,10 @@
+// Reglas seguras: solo lectura pública
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /articles/{doc} {
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}
