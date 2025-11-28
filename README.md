@@ -80,3 +80,16 @@ Start the app on your connected device or emulator:
 ```
 flutter run
 ```
+
+## 📸 Screenshots
+
+Below are several screenshots showcasing the main screens of the application:
+
+### Home
+<img src="capturaApp1.png" width="300">
+<img src="capturaApp2.png" width="300">
+
+### Articles
+<img src="capturaApp3.png" width="300">
+<img src="capturaApp4.png" width="300">
+
